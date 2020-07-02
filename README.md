@@ -1,16 +1,7 @@
-Data binding basics - Starter Code
+Data binding basics
 ==================================
 
-Use as starter code for the Data binding basics codelab.
-This is the same AboutMe app the you built in a previous codelab.
-
-Introduction
-------------
-
-This starter app provides the completed AboutMe code.
-You will modify the app to use data binding techniques to
-eliminate calls to findViewById() and access data directly
-from views.
+Data binding basics codelab with AboutMe app.
 
 Pre-requisites
 --------------
