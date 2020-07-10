@@ -3,14 +3,6 @@ Data binding basics
 
 Data binding basics codelab with AboutMe app.
 
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- How to create a basic app with one Activity and one layout
- that uses TextView, ScrollView, Button, EditText, and LinearLayout.
-- How to add a click handler to a Button.
 
 Getting Started
 ---------------
